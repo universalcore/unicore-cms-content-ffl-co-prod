@@ -6,12 +6,12 @@
   "primary_category": "7c0cfd0de6df48d28603be323308c468", 
   "created_at": "2015-01-04T17:26:54+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2017-02-24T11:11:42.737496+00:00", 
+  "modified_at": "2017-02-24T11:20:38.542496+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 69, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "se-debe-utilizar-una-jeringa-nueva-para-cada-persona-que-se-vacuna-y-todo-el-mundo-debe-exigir-que-este-requisito-se-cumpla", 
   "uuid": "f4c02e4e8e064df587dc338f428092dd"
