@@ -6,12 +6,12 @@
   "primary_category": "7c0cfd0de6df48d28603be323308c468", 
   "created_at": "2015-01-04T17:29:13+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2017-02-24T11:10:49.249785+00:00", 
+  "modified_at": "2017-02-24T11:20:38.150197+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 66, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "antes-de-recibir-cualquier-vacuna-se-debe-presentar-al-agente-de-salud-la-cartilla-de-vacunacion-del-nino-o-del-adulto", 
   "uuid": "77fea9de80e14041b1738884e92f24c9"
